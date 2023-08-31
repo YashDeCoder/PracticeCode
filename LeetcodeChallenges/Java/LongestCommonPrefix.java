@@ -28,8 +28,10 @@ class LongestCommonPrefix {
     }
 
     public static void main(String[] args) {
+
+        // For the Longest Common Prefix
         LongestCommonPrefix objectString = new LongestCommonPrefix();
-        String listString[] = { "dog", "racecar", "car" };
+        String listString[] = { "dog", "doracecar", "docar" };
         String finalPrefixString = objectString.getPrefix(listString);
         System.out.println(finalPrefixString);
     }

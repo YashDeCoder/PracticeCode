@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "LeetcodeChallenges_6e9313da"
+        },
+        {
+            "type": "java",
+            "name": "RemoveElement",
+            "request": "launch",
+            "mainClass": "RemoveElement",
+            "projectName": "LeetcodeChallenges_6e9313da"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "LeetcodeChallenges_6e9313da"
+        },
+        {
+            "type": "java",
             "name": "LongestCommonPrefix",
             "request": "launch",
             "mainClass": "LongestCommonPrefix",
