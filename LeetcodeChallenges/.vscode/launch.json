@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseWords",
+            "request": "launch",
+            "mainClass": "ReverseWords",
+            "projectName": "LeetcodeChallenges_6e9313da"
+        },
+        {
+            "type": "java",
+            "name": "GasStation",
+            "request": "launch",
+            "mainClass": "GasStation",
+            "projectName": "LeetcodeChallenges_6e9313da"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates2",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates2",
+            "projectName": "LeetcodeChallenges_6e9313da"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicates",
             "request": "launch",
             "mainClass": "RemoveDuplicates",
